@@ -7,5 +7,4 @@ function App() {
         <MusicSearch></MusicSearch>
     )
 }
-
 export default App;
